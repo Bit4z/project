@@ -1,0 +1,5 @@
+body{background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(g.jpg);height:100vh;background-size:cover;background-position:center;
+}
+ button p {background-color:black;color:green;padding:10px;display:none;}
+button:hover p{display:block;}
+
